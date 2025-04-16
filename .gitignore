@@ -1,0 +1,36 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyCharm
+.idea/
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+*.egg-info/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Logs
+*.log
+
+# Mac and Windows
+.DS_Store
+Thumbs.db
+
+# Model weights/checkpoints
+*.h5
+*.pt
+*.pth
+*.onnx
+
+# VSCode (optional)
+.vscode/
+
+# Datasets folder
+Antispoofing/Datasets/
